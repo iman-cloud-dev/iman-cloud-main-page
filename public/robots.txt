@@ -1,0 +1,9 @@
+# Iman Cloud - Robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://iman-cloud-dev.github.io/iman-cloud-main-page/sitemap.xml
+
+# Disallow admin or private areas (add as needed)
+# Disallow: /admin/
