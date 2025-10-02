@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <defs>
+    <linearGradient id="cloudGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#3B82F6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06B6D4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <path d="M75 45C75 35.335 67.165 27.5 57.5 27.5C52.5 27.5 48 29.5 44.5 32.5C42 25 35 20 27.5 20C17.835 20 10 27.835 10 37.5C10 38.5 10.1 39.5 10.3 40.4C4.5 42.5 0 48 0 54.5C0 62.508 6.492 69 14.5 69H72.5C84.374 69 94 59.374 94 47.5C94 36.178 85.322 26.822 74 26.022C74.665 27.315 75 28.765 75 30.3V45Z" 
+        fill="url(#cloudGradient)" 
+        transform="translate(3, 15)" />
+</svg>
