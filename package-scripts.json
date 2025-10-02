@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "setup": "npm install && echo '✅ Dependencies installed successfully!'",
+    "start": "npm run dev",
+    "check": "npm run lint && npm run build && echo '✅ All checks passed!'",
+    "deploy:preview": "npm run build && npm run preview",
+    "clean": "rm -rf node_modules dist && echo '✅ Cleaned successfully!'"
+  }
+}
