@@ -4,7 +4,9 @@
 
 Moderne, mehrseitige Firmenwebseite für Iman Cloud - IT-Dienstleistungen.
 
-🌐 **Live-Demo:** https://iman-cloud-dev.github.io/iman-cloud-main-page/
+🌐 **Live-Demo:** https://[UUID].iman-cloud.net/iman-cloud-main-page/
+
+> **Hinweis:** Ersetze `[UUID]` mit deiner Iman Cloud UUID nach dem Deployment.
 
 ## 🚀 Quick Start
 
@@ -45,7 +47,7 @@ Basierend auf dem [Iman Cloud Concept Board](https://9bd60c70-4265-44e4-ab0f-1dd
 - **Styling:** TailwindCSS 3
 - **Routing:** React Router 6
 - **Icons:** Lucide React
-- **Deployment:** GitHub Actions → GitHub Pages
+- **Deployment:** GitHub Actions → Iman Cloud Server (via SSH/rsync)
 
 ## 📄 Seiten
 
