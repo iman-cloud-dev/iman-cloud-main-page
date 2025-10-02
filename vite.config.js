@@ -4,10 +4,8 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  // Base path for deployment
-  // For Iman Cloud: base: '/iman-cloud-main-page/'
-  // For custom domain: base: '/'
-  base: '/iman-cloud-main-page/',
+  // Base path set to '/' for root deployment
+  base: '/',
   server: {
     port: 3000,
     open: true
